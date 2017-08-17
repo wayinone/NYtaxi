@@ -1,0 +1,142 @@
+2017-08-15 09:39:40,476:========================================
+
+2017-08-15 09:39:40,477:=====1 of 2 searching:=====
+
+2017-08-15 09:40:08,463:========================================
+
+2017-08-15 09:40:08,463:=====1 of 2 searching:=====
+
+2017-08-15 09:40:10,580:score = 0.37285, n_boost_round =231.
+
+2017-08-15 09:40:10,581:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-15 09:40:10,581:=====2 of 2 searching:=====
+
+2017-08-15 09:40:12,356:score = 0.35670, n_boost_round =208.
+
+2017-08-15 09:40:12,356:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-15 09:41:10,603:========================================
+
+2017-08-15 09:41:10,605:=====1 of 2 searching:=====
+
+2017-08-15 12:06:08,080:score = 0.36893, n_boost_round =1998.
+
+2017-08-15 12:06:08,081:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-15 12:06:08,081:=====2 of 2 searching:=====
+
+2017-08-15 13:42:32,722:score = 0.37477, n_boost_round =1312.
+
+2017-08-15 13:42:32,722:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-15 23:02:46,543:========================================
+
+2017-08-15 23:02:46,545:=====1 of 4 searching:=====
+
+2017-08-15 23:02:55,889:========================================
+
+2017-08-15 23:02:55,889:=====1 of 4 searching:=====
+
+2017-08-15 23:02:58,443:score = 0.41292, n_boost_round =239.
+
+2017-08-15 23:02:58,443:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-15 23:02:58,443:=====2 of 4 searching:=====
+
+2017-08-15 23:03:00,917:score = 0.35422, n_boost_round =235.
+
+2017-08-15 23:03:00,917:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-15 23:03:00,917:=====3 of 4 searching:=====
+
+2017-08-15 23:03:02,265:score = 0.42683, n_boost_round =167.
+
+2017-08-15 23:03:02,266:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-15 23:03:02,266:=====4 of 4 searching:=====
+
+2017-08-15 23:03:04,724:score = 0.31921, n_boost_round =254.
+
+2017-08-15 23:03:04,724:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-15 23:03:31,940:========================================
+
+2017-08-15 23:03:31,941:=====1 of 4 searching:=====
+
+2017-08-16 01:00:04,437:score = 0.37707, n_boost_round =1575.
+
+2017-08-16 01:00:04,437:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-16 01:00:04,437:=====2 of 4 searching:=====
+
+2017-08-16 02:43:01,422:score = 0.37732, n_boost_round =1402.
+
+2017-08-16 02:43:01,422:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-16 02:43:01,422:=====3 of 4 searching:=====
+
+2017-08-16 05:10:54,173:score = 0.37401, n_boost_round =1999.
+
+2017-08-16 05:10:54,173:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-16 05:10:54,173:=====4 of 4 searching:=====
+
+2017-08-16 07:35:55,975:score = 0.37687, n_boost_round =1999.
+
+2017-08-16 07:35:55,975:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-16 10:06:16,569:========================================
+
+2017-08-16 10:06:16,574:=====1 of 4 searching:=====
+
+2017-08-16 10:06:42,630:========================================
+
+2017-08-16 10:06:42,631:=====1 of 4 searching:=====
+
+2017-08-16 12:29:01,355:score = 0.37498, n_boost_round =1995.
+
+2017-08-16 12:29:01,355:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-16 12:29:01,355:=====2 of 4 searching:=====
+
+2017-08-16 14:10:59,879:score = 0.37788, n_boost_round =1402.
+
+2017-08-16 14:10:59,879:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-16 14:10:59,879:=====3 of 4 searching:=====
+
+2017-08-16 16:29:01,720:score = 0.37261, n_boost_round =1998.
+
+2017-08-16 16:29:01,720:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-16 16:29:01,720:=====4 of 4 searching:=====
+
+2017-08-16 18:30:31,663:score = 0.37494, n_boost_round =1794.
+
+2017-08-16 18:30:31,663:{'max_depth': 14, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-17 01:46:35,800:========================================
+
+2017-08-17 01:46:35,808:=====1 of 3 searching:=====
+
+2017-08-17 01:46:56,843:========================================
+
+2017-08-17 01:46:56,843:=====1 of 3 searching:=====
+
+2017-08-17 03:44:27,039:score = 0.37876, n_boost_round =1128.
+
+2017-08-17 03:44:27,039:{'max_depth': 20, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-17 03:44:27,039:=====2 of 3 searching:=====
+
+2017-08-17 05:26:25,598:score = 0.37169, n_boost_round =1122.
+
+2017-08-17 05:26:25,599:{'max_depth': 20, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
+2017-08-17 05:26:25,599:=====3 of 3 searching:=====
+
+2017-08-17 07:20:06,693:score = 0.37606, n_boost_round =1240.
+
+2017-08-17 07:20:06,694:{'max_depth': 20, 'eta': 0.025, 'subsample': 0.8, 'lambda ': 3, 'colsample_bytree ': 0.8, 'colsample_bylevel': 1, 'min_child_weight': 10, 'objective': 'reg:linear', 'nthread': -1}
+
